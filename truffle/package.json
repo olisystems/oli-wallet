@@ -1,0 +1,37 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "description": "Truffle project to bootstrap Smart Contract development",
+  "main": "index.js",
+  "scripts": {
+    "init": "truffle init",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network volta",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olisystems/oli-wallet.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "truffle",
+    "wallet",
+    "distributed",
+    "smart contract",
+    "metamask",
+    "vue.js",
+    "volta",
+    "web3.js"
+  ],
+  "author": "Muhammad Yahya @ Oli Systems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olisystems/oli-wallet/issues"
+  },
+  "homepage": "https://github.com/olisystems/oli-wallet#readme",
+  "devDependencies": {
+    "truffle": "^5.1.55"
+  }
+}
