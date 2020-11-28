@@ -7,13 +7,12 @@ A distributed wallet to send and receive funds
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:0 updateOnSave:1 -->
 
 1. [Description](#description)   
-2. [API Documentation](#api-documentation)   
-3. [Overview of the Stack](#overview-of-the-stack)   
-4. [Getting Started](#getting-started)   
-&emsp;4.1. [Prerequisites](#prerequisites)   
-&emsp;4.2. [Installing](#installing)   
-5. [Built With](#built-with)   
-6. [Contributing](#contributing)   
+2. [Overview of the Stack](#overview-of-the-stack)   
+3. [Getting Started](#getting-started)   
+&emsp;3.1. [Prerequisites](#prerequisites)   
+&emsp;3.2. [Installing](#installing)   
+4. [Built With](#built-with)   
+5. [Contributing](#contributing)   
 
 <!-- /MDTOC -->
 
