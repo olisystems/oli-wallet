@@ -1,0 +1,31 @@
+{
+  "name": "oli-wallet",
+  "version": "1.0.0",
+  "description": "OLI Distributed Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olisystems/oli-wallet.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "truffle",
+    "wallet",
+    "distributed",
+    "smart contract",
+    "metamask",
+    "vue.js",
+    "volta",
+    "web3.js"
+  ],
+  "author": "Muhammad Yahya @ Oli Systems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olisystems/oli-wallet/issues"
+  },
+  "homepage": "https://github.com/olisystems/oli-wallet#readme"
+}
